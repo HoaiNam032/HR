@@ -7,10 +7,9 @@ Dự án này phân tích dữ liệu tuyển dụng và nghỉ việc của nh�
 - Phân tích xu hướng tuyển dụng và nghỉ việc theo năm
 - Phân tích các yếu tố ảnh hưởng đến tỷ lệ nghỉ việc của nhân viên
 - Xác định mối liên hệ giữa dữ liệu tuyển dụng và dữ liệu nghỉ việc
-- Phân tích dữ liệu nhân khẩu học của nhân viên, chẳng hạn như giới tính, độ tuổi
 
 ## **Technologies Used**
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn) – Dùng để xử lý và phân tích dữ liệu
+- **Power BI** – Dùng để trực quan hóa và phân tích dữ liệu
 - **CSV** – Định dạng dữ liệu đầu vào và đầu ra
 
-## **File Structure**
+
